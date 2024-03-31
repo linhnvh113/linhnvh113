@@ -45,6 +45,11 @@
 <img align="left" src="https://cdn.svgporn.com/logos/nvm.svg" width="32" height="32" />
 <img align="left" src="https://cdn.svgporn.com/logos/eslint.svg" width="32" height="32" />
 <img align="left" src="https://cdn.svgporn.com/logos/prettier.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/html-5.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/css-3.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/daisyUI.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/headlessui-icon.svg" width="32" height="32" />
+<img align="left" src="https://cdn.svgporn.com/logos/zod.svg" width="32" height="32" />
 
 
 
