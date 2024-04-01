@@ -1,3 +1,5 @@
+<img src="./images/header_.png" />
+
 - 👋 Hi, I’m @linhnvh113
 - 👀 I’m interested in React and its ecosystems
 - 🌱 I’m currently learning back-end
@@ -50,11 +52,11 @@
 <img align="left" src="https://cdn.svgporn.com/logos/daisyUI.svg" width="32" height="32" />
 <img align="left" src="https://cdn.svgporn.com/logos/headlessui-icon.svg" width="32" height="32" />
 <img align="left" src="https://cdn.svgporn.com/logos/zod.svg" width="32" height="32" />
+<br />
 
+---
 
-
-
-
+<img src="/images/header_1.png" />
 
 <!---
 linhnvh113/linhnvh113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
